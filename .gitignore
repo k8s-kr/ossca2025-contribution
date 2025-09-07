@@ -70,4 +70,4 @@ secrets.json
 .env
 
 # GitHub managed files
-.github
+# .github (workflows) are intentionally not ignored so Actions workflows can be committed
