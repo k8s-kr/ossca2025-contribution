@@ -1,3 +1,4 @@
+relativeURLs = true
 canonifyURLs = false
 languageCode = "ko-kr"
 title = "OSSCA 2025 - Kubernetes Docs L10n"
