@@ -1,5 +1,3 @@
-baseURL = "https://k8s-kr.github.io/ossca2025-contribution/"
-relativeURLs = true
 canonifyURLs = false
 languageCode = "ko-kr"
 title = "OSSCA 2025 - Kubernetes Docs L10n"
