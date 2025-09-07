@@ -1,0 +1,161 @@
+Checking GitHub activity from 2025-07-12 to 2025-07-19
+
+===== User: hyorimlee =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: jongwooo =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:1
+#51599 [ko] Fix EOL MCR links in CRI and Windows Installation Pages CLOSED 2025-07-14T21:48:45Z
+- Comments count: 0
+
+===== User: NOHHYEONGJUN =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: developowl =====
+- Issues created:0
+
+- Issues assigned:1
+#51654 [ko] Hello minikube tutorial is stale CLOSED 2025-07-19T05:15:39Z
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 3
+
+===== User: eundms =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: wonyongg =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: wooneojun =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: ianychoi =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:1
+#51599 [ko] Fix EOL MCR links in CRI and Windows Installation Pages CLOSED 2025-07-14T21:48:45Z
+- Comments count: 0
+
+===== User: kamothi =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: S0okJu =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: daeun-ops =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: Antraxmin =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: ppiyakk2 =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+=== Summary Table ===
+| User        | Issues Created | Issues Assigned | PRs Created | PRs Assigned | Comments Count |
+|-------------|----------------|-----------------|-------------|--------------|----------------|
+| hyorimlee   | 0              | 0               | 0           | 0            | 0              |
+| jongwooo    | 0              | 0               | 0           | 1            | 0              |
+| NOHHYEONGJUN | 0              | 0               | 0           | 0            | 0              |
+| developowl  | 0              | 1               | 0           | 0            | 3              |
+| eundms      | 0              | 0               | 0           | 0            | 0              |
+| wonyongg    | 0              | 0               | 0           | 0            | 0              |
+| wooneojun   | 0              | 0               | 0           | 0            | 0              |
+| ianychoi    | 0              | 0               | 0           | 1            | 0              |
+| kamothi     | 0              | 0               | 0           | 0            | 0              |
+| S0okJu      | 0              | 0               | 0           | 0            | 0              |
+| daeun-ops   | 0              | 0               | 0           | 0            | 0              |
+| Antraxmin   | 0              | 0               | 0           | 0            | 0              |
+| ppiyakk2    | 0              | 0               | 0           | 0            | 0              |

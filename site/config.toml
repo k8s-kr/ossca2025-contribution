@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "ko-kr"
+title = "OSSCA 2025 - Kubernetes Docs L10n"
+# Ignore plain text files in data/ so Hugo doesn't try to parse them
+ignoreFiles = ["\\.txt$"]

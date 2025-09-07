@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+  <div class="page-wrapper">
+    <header class="site-header">
+      <div class="brand"><h1><a href="/">{{ .Site.Title }}</a></h1></div>
+      <nav class="main-nav"><a href="/periods/">기간별 요약</a></nav>
+      <div class="header-actions">
+        <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
+      </div>
+    </header>
+
+    {{ block "main" . }}{{ end }}
+  </div>
+
+  <footer>
+    <hr />
+    <small>Generated at {{ now.Format "2006-01-02 15:04:05 MST" }}</small>
+  </footer>
+  <script>
+    // Theme toggle: respects prefers-color-scheme and saves preference to localStorage
+    (function(){
+      const toggle = document.getElementById('theme-toggle');
+      const stored = localStorage.getItem('ossca_theme');
+      const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const apply = (mode) => {
+        document.documentElement.setAttribute('data-theme', mode);
+        toggle.textContent = mode === 'dark' ? '☀️' : '🌙';
+      };
+      if(stored) apply(stored);
+      else apply(prefersDark ? 'dark' : 'light');
+      toggle.addEventListener('click', ()=>{
+        const cur = document.documentElement.getAttribute('data-theme') || 'light';
+        const next = cur === 'dark' ? 'light' : 'dark';
+        localStorage.setItem('ossca_theme', next);
+        apply(next);
+      });
+    })();
+  </script>
+</body>
+</html>

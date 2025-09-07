@@ -1,0 +1,170 @@
+Checking GitHub activity from 2025-08-24 to 2025-08-30
+
+===== User: hyorimlee =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:1
+#52103 [ko] Translate tutorials/configuration/updating-configuration-via-a-configmap OPEN 2025-08-30T07:57:16Z
+- Comments count: 0
+
+===== User: jongwooo =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:2
+#52102 [ko] Fix typo in configmap yaml example to sync with English version MERGED 2025-08-30T05:57:39Z
+#52077 [ko] Updated fluentd image version in DaemonSet example MERGED 2025-08-28T21:12:05Z
+- Comments count: 3
+
+===== User: NOHHYEONGJUN =====
+- Issues created:1
+#52068 [ko] Translate /docs/tutorials/services/pods-and-endpoint-termination-flow into Korean OPEN 2025-08-28T08:31:56Z
+- Issues assigned:1
+#52068 [ko] Translate /docs/tutorials/services/pods-and-endpoint-termination-flow into Korean OPEN 2025-08-28T08:31:56Z
+- PRs created:1
+#52105 [ko] Translate /tutorials/services/pods-and-endpoint-termination-flow into Korean OPEN 2025-08-30T08:46:41Z
+- PRs assigned:0
+
+- Comments count: 1
+
+===== User: developowl =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: eundms =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:2
+#52103 [ko] Translate tutorials/configuration/updating-configuration-via-a-configmap OPEN 2025-08-30T07:57:16Z
+#52096 [ko] Translate /docs/concepts/workloads/management into korean OPEN 2025-08-30T04:08:12Z
+- PRs assigned:3
+#52116 [ko] Translate /docs/tasks/manage-daemon/create-daemon-set into Korean OPEN 2025-08-30T16:07:02Z
+#52112 [ko] Translate Concepts/Security/Cloud Native Security OPEN 2025-08-30T12:14:39Z
+#52075 [ko] Sync /ko/docs/concepts/architecture/_index.md OPEN 2025-08-28T16:00:21Z
+- Comments count: 0
+
+===== User: wonyongg =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:1
+#52075 [ko] Sync /ko/docs/concepts/architecture/_index.md OPEN 2025-08-28T16:00:21Z
+- PRs assigned:2
+#52105 [ko] Translate /tutorials/services/pods-and-endpoint-termination-flow into Korean OPEN 2025-08-30T08:46:41Z
+#52096 [ko] Translate /docs/concepts/workloads/management into korean OPEN 2025-08-30T04:08:12Z
+- Comments count: 2
+
+===== User: wooneojun =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 1
+
+===== User: ianychoi =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:2
+#52093 [ko] Update /concepts/cluster-administration/system-metrics.md MERGED 2025-08-29T22:09:03Z
+#52077 [ko] Updated fluentd image version in DaemonSet example MERGED 2025-08-28T21:12:05Z
+- Comments count: 2
+
+===== User: kamothi =====
+- Issues created:2
+#52117 [ko] Translate /docs/tasks/manage-daemon/pods-some-nodes into Korean OPEN 2025-08-30T16:21:06Z
+#52022 [ko] Translate /docs/tasks/manage-daemon/create-daemon-set into Korean OPEN 2025-08-25T11:57:38Z
+- Issues assigned:2
+#52117 [ko] Translate /docs/tasks/manage-daemon/pods-some-nodes into Korean OPEN 2025-08-30T16:21:06Z
+#52022 [ko] Translate /docs/tasks/manage-daemon/create-daemon-set into Korean OPEN 2025-08-25T11:57:38Z
+- PRs created:1
+#52116 [ko] Translate /docs/tasks/manage-daemon/create-daemon-set into Korean OPEN 2025-08-30T16:07:02Z
+- PRs assigned:0
+
+- Comments count: 4
+
+===== User: S0okJu =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:1
+#52112 [ko] Translate Concepts/Security/Cloud Native Security OPEN 2025-08-30T12:14:39Z
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: daeun-ops =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: Antraxmin =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: ppiyakk2 =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+=== Summary Table ===
+| User        | Issues Created | Issues Assigned | PRs Created | PRs Assigned | Comments Count |
+|-------------|----------------|-----------------|-------------|--------------|----------------|
+| hyorimlee   | 0              | 0               | 0           | 1            | 0              |
+| jongwooo    | 0              | 0               | 0           | 2            | 3              |
+| NOHHYEONGJUN | 1              | 1               | 1           | 0            | 1              |
+| developowl  | 0              | 0               | 0           | 0            | 0              |
+| eundms      | 0              | 0               | 2           | 3            | 0              |
+| wonyongg    | 0              | 0               | 1           | 2            | 2              |
+| wooneojun   | 0              | 0               | 0           | 0            | 1              |
+| ianychoi    | 0              | 0               | 0           | 2            | 2              |
+| kamothi     | 2              | 2               | 1           | 0            | 4              |
+| S0okJu      | 0              | 0               | 1           | 0            | 0              |
+| daeun-ops   | 0              | 0               | 0           | 0            | 0              |
+| Antraxmin   | 0              | 0               | 0           | 0            | 0              |
+| ppiyakk2    | 0              | 0               | 0           | 0            | 0              |
+

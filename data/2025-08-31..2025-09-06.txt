@@ -1,0 +1,190 @@
+Checking GitHub activity from 2025-08-31 to 2025-09-06
+
+===== User: hyorimlee =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:1
+#52226 [ko]Translate /concepts/cluster-administragion/node-autoscaling into Korean OPEN 2025-09-06T12:05:53Z
+- PRs assigned:1
+#52222 [ko] update docs/concepts/cluster-administration/logging OPEN 2025-09-06T03:51:41Z
+- Comments count: 2
+
+===== User: jongwooo =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:1
+#52174 [ko] fix: instrumentation guidelines link in device plugin page OPEN 2025-09-03T21:05:47Z
+- Comments count: 0
+
+===== User: NOHHYEONGJUN =====
+- Issues created:5
+#52230 [ko] Sync /docs/concepts/policy/limit-range.md with latest EN OPEN 2025-09-06T13:31:42Z
+#52227 [ko] Sync /includes/task-tutorial-prereqs.md with latest EN OPEN 2025-09-06T12:25:02Z
+#52216 [ko] Sync docs/setup/production-environment/tools/_index.md with latest EN and Remove kops.md, kubespray.md OPEN 2025-09-05T06:26:53Z
+#52179 [ko] Translate /docs/tasks/manage-daemon/pods-some-nodes into Korean CLOSED 2025-09-04T07:01:55Z
+#52139 [ko] Translate /docs/tasks/manage-daemon/create-daemon-set into Korean CLOSED 2025-09-01T13:47:35Z
+- Issues assigned:5
+#52230 [ko] Sync /docs/concepts/policy/limit-range.md with latest EN OPEN 2025-09-06T13:31:42Z
+#52227 [ko] Sync /includes/task-tutorial-prereqs.md with latest EN OPEN 2025-09-06T12:25:02Z
+#52216 [ko] Sync docs/setup/production-environment/tools/_index.md with latest EN and Remove kops.md, kubespray.md OPEN 2025-09-05T06:26:53Z
+#52179 [ko] Translate /docs/tasks/manage-daemon/pods-some-nodes into Korean CLOSED 2025-09-04T07:01:55Z
+#52139 [ko] Translate /docs/tasks/manage-daemon/create-daemon-set into Korean CLOSED 2025-09-01T13:47:35Z
+- PRs created:5
+#52236 [ko] Sync /docs/concepts/policy/limit-range.md with latest EN OPEN 2025-09-06T14:11:51Z
+#52228 [ko] Sync /includes/task-tutorial-prereqs.md with latest EN OPEN 2025-09-06T12:32:09Z
+#52217 Sync docs/setup/production-environment/tools/_index.md with latest EN and Remove kops.md, kubespray.md OPEN 2025-09-05T07:02:49Z
+#52186 [ko] Translate /docs/tasks/manage-daemon/pods-some-nodes into Korean CLOSED 2025-09-04T07:53:32Z
+#52178 [ko] Translate /tasks/manage-daemon/create-daemon-set into Korean CLOSED 2025-09-04T06:55:38Z
+- PRs assigned:0
+
+- Comments count: 10
+
+===== User: developowl =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: eundms =====
+- Issues created:8
+#52235 [ko] Update /docs/concepts/overview/working-with-objects/common-labels OPEN 2025-09-06T14:01:56Z
+#52234 [ko] Update /docs/concepts/overview/working-with-objects/finalizers OPEN 2025-09-06T13:52:32Z
+#52233 [ko] Update /docs/concepts/overview/working-with-objects/field-selectors OPEN 2025-09-06T13:43:16Z
+#52232 [ko] Update /docs/concepts/overview/working-with-objects/annotations OPEN 2025-09-06T13:39:35Z
+#52231 [ko] Update /docs/concepts/overview/working-with-objects/namespaces OPEN 2025-09-06T13:34:03Z
+#52229 [ko] Update /docs/concepts/overview/working-with-objects/names OPEN 2025-09-06T13:26:12Z
+#52223 [ko] Update /docs/concepts/overview/working-with-objects/_index.md OPEN 2025-09-06T05:42:33Z
+#52141 [ko] Update /docs/concepts/cluster-administration/logging/ OPEN 2025-09-01T15:35:50Z
+- Issues assigned:8
+#52235 [ko] Update /docs/concepts/overview/working-with-objects/common-labels OPEN 2025-09-06T14:01:56Z
+#52234 [ko] Update /docs/concepts/overview/working-with-objects/finalizers OPEN 2025-09-06T13:52:32Z
+#52233 [ko] Update /docs/concepts/overview/working-with-objects/field-selectors OPEN 2025-09-06T13:43:16Z
+#52232 [ko] Update /docs/concepts/overview/working-with-objects/annotations OPEN 2025-09-06T13:39:35Z
+#52231 [ko] Update /docs/concepts/overview/working-with-objects/namespaces OPEN 2025-09-06T13:34:03Z
+#52229 [ko] Update /docs/concepts/overview/working-with-objects/names OPEN 2025-09-06T13:26:12Z
+#52223 [ko] Update /docs/concepts/overview/working-with-objects/_index.md OPEN 2025-09-06T05:42:33Z
+#52141 [ko] Update /docs/concepts/cluster-administration/logging/ OPEN 2025-09-01T15:35:50Z
+- PRs created:2
+#52224 [ko] Update /docs/concepts/overview/working-with-objects/_i… OPEN 2025-09-06T07:19:44Z
+#52222 [ko] update docs/concepts/cluster-administration/logging OPEN 2025-09-06T03:51:41Z
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: wonyongg =====
+- Issues created:1
+#52142 [ko] Translate /docs/concepts/security/service-accounts/ OPEN 2025-09-01T16:28:58Z
+- Issues assigned:1
+#52142 [ko] Translate /docs/concepts/security/service-accounts/ OPEN 2025-09-01T16:28:58Z
+- PRs created:0
+
+- PRs assigned:2
+#52224 [ko] Update /docs/concepts/overview/working-with-objects/_i… OPEN 2025-09-06T07:19:44Z
+#52186 [ko] Translate /docs/tasks/manage-daemon/pods-some-nodes into Korean CLOSED 2025-09-04T07:53:32Z
+- Comments count: 5
+
+===== User: wooneojun =====
+- Issues created:1
+#52188 [ko] Translate docs/tasks/administer-cluster/securing-a-cluster into korean OPEN 2025-09-04T09:58:56Z
+- Issues assigned:1
+#52188 [ko] Translate docs/tasks/administer-cluster/securing-a-cluster into korean OPEN 2025-09-04T09:58:56Z
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 1
+
+===== User: ianychoi =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 6
+
+===== User: kamothi =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: S0okJu =====
+- Issues created:1
+#52138 [ko] Update docs/tutorials/security/_index OPEN 2025-09-01T13:11:54Z
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: daeun-ops =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: Antraxmin =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+===== User: ppiyakk2 =====
+- Issues created:0
+
+- Issues assigned:0
+
+- PRs created:0
+
+- PRs assigned:0
+
+- Comments count: 0
+
+=== Summary Table ===
+| User        | Issues Created | Issues Assigned | PRs Created | PRs Assigned | Comments Count |
+|-------------|----------------|-----------------|-------------|--------------|----------------|
+| hyorimlee   | 0              | 0               | 1           | 1            | 2              |
+| jongwooo    | 0              | 0               | 0           | 1            | 0              |
+| NOHHYEONGJUN | 5              | 5               | 5           | 0            | 10             |
+| developowl  | 0              | 0               | 0           | 0            | 0              |
+| eundms      | 8              | 8               | 2           | 0            | 0              |
+| wonyongg    | 1              | 1               | 0           | 2            | 5              |
+| wooneojun   | 1              | 1               | 0           | 0            | 1              |
+| ianychoi    | 0              | 0               | 0           | 0            | 6              |
+| kamothi     | 0              | 0               | 0           | 0            | 0              |
+| S0okJu      | 1              | 0               | 0           | 0            | 0              |
+| daeun-ops   | 0              | 0               | 0           | 0            | 0              |
+| Antraxmin   | 0              | 0               | 0           | 0            | 0              |
+| ppiyakk2    | 0              | 0               | 0           | 0            | 0              |
+

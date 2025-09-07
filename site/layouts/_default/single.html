@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <h1><a href="/">{{ .Site.Title }}</a></h1>
+    <nav><a href="/periods/">기간별 요약</a></nav>
+  </header>
+  <main class="container">
+    <article>
+      <h2>{{ .Title }}</h2>
+      <div class="page-content">{{ .Content }}</div>
+    </article>
+  </main>
+  <footer>
+    <hr />
+    <small>Generated at {{ now.Format "2006-01-02 15:04:05 MST" }}</small>
+  </footer>
+</body>
+</html>
