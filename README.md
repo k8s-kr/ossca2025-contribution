@@ -70,3 +70,12 @@ python3 -m http.server 8000
 - 레이트 리미트: Personal Access Token을 사용해 호출 한도를 늘리세요.
 
 ```
+
+GitHub Pages에 배포하기
+
+1. 이 저장소에 위에서 추가한 GitHub Actions 워크플로(`.github/workflows/deploy.yml`)가 푸시될 때마다 자동으로 `site` 디렉터리의 Hugo 사이트를 빌드하고 `gh-pages` 브랜치로 배포합니다.
+2. 리포지토리의 Settings > Pages로 이동해 배포 소스(Deploy from)를 `gh-pages` 브랜치로 선택하고 `/ (root)`를 지정하세요. 워크플로가 `gh-pages` 브랜치에 파일을 푸시하면 사이트가 활성화됩니다.
+3. 도메인, HTTPS 설정 등은 Pages 설정 페이지에서 필요에 따라 구성하세요.
+
+참고: Actions가 `GITHUB_TOKEN`을 사용해 `gh-pages` 브랜치로 푸시하므로 별도 퍼스널 액세스 토큰이 필요하지 않습니다. 단, 조직 정책이나 커스텀 배포(예: 외부 호스팅)에는 추가 설정이 필요할 수 있습니다.
+
