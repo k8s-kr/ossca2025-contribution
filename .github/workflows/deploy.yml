@@ -19,6 +19,7 @@ jobs:
 
       - name: Build site
         run: |
+          pwd && cat site/config.toml
           hugo --minify -s site -d public
 
       - name: Deploy to gh-pages
