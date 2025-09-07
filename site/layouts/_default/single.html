@@ -8,8 +8,8 @@
 </head>
 <body>
   <header>
-    <h1><a href="/">{{ .Site.Title }}</a></h1>
-    <nav><a href="/periods/">기간별 요약</a></nav>
+    <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+    <nav><a href="{{ "/periods/" | relURL }}">기간별 요약</a></nav>
   </header>
   <main class="container">
     <article>

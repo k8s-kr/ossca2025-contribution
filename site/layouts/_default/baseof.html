@@ -14,8 +14,8 @@
 
   <div class="page-wrapper">
     <header class="site-header">
-      <div class="brand"><h1><a href="/">{{ .Site.Title }}</a></h1></div>
-      <nav class="main-nav"><a href="/periods/">기간별 요약</a></nav>
+      <div class="brand"><h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1></div>
+      <nav class="main-nav"><a href="{{ "/periods/" | relURL }}">기간별 요약</a></nav>
       <div class="header-actions">
         <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
       </div>
